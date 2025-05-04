@@ -1,4 +1,5 @@
 # 1109. Corporate Flight Bookings
+# Approach: Prefix Sum. Time Complexity: O(N) Space Complexity: O(1)
 
 from typing import List
 
